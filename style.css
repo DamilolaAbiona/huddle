@@ -206,6 +206,34 @@
   .logo{
     color: white;
   }
+  .iconic{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-right: 1rem;
+  }
+  ul{
+    display: flex;
+  }
+  .iconic img{
+    align-items: flex-start;
+    padding-right: .8rem;
+
+  }
+  .aboutfoot{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+
+  }
+  .careers{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
    .logo2{
       position: absolute;
       left: 0;
