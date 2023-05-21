@@ -265,4 +265,57 @@
     .attribution {
       font-size: 18px;
     }
+    .copy{
+      padding: 0;
+      margin-right: 4.5rem;
+      
+      align-items: center;
+    }
+    .logo2{
+      position: absolute;
+      left: 0;
+      top: -15%;
+      margin-bottom: .7rem;
+      padding: 1rem;
+      margin-left: 0;
+      margin-right: 5rem;
+      
+     
+    }
+    .myic{
+      margin-right: 1.5rem;
+    }
+    ul{
+      display: flex;
+    
+    }
+    .iconic{
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: flex-start;
+      margin-right: 1rem;
+    }
+    .iconic img{
+      align-items: flex-start;
+      padding-right: .8rem;
+
+    }
+    .aboutfoot{
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: flex-start;
+
+    }
+    .careers{
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: flex-start;
+    }
+    ul .soial-media{
+      flex-direction: row;
+      align-items: center;
+    }
   }
